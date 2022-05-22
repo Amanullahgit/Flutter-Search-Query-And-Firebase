@@ -1,16 +1,25 @@
-# search_project
+# Flutter Firebase Search Query Listview Appbar
 
-A new Flutter project.
+This is the source code for Flutter Firebase Search Query using Flutter v3 and flutterfire.<br>
 
-## Getting Started
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/41961773/169690207-08e2da4f-9604-4750-8c00-af2fd2e853b5.gif)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## App Features
+- Search Bar in Appbar.<br>
+- Search User by name and show data of specific user in listview.<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Watch video tutorial in the link below for further clarifications:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter Firebase Search Query And List View - Social Media Search](https://bit.ly/3wyqBe8)
+
+## Links used in project:
+
+- [Flutterfire_ui](https://pub.dev/packages/flutterfire_ui)
+
+<br>
+
+Feel Free to copy the code and use it.<br><br>
+Don't forget to star the repo and like the video :)
+
+
